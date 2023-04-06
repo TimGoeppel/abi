@@ -1,3 +1,5 @@
+
+
 # Interpretationsaufgaben
 Mögliche Gliederungen zu den drei Interpretationsaufgaben:
 
