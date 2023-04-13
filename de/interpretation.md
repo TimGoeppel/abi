@@ -1,5 +1,3 @@
-
-
 # Interpretationsaufgaben
 Mögliche Gliederungen zu den drei Interpretationsaufgaben:
 
@@ -13,8 +11,13 @@ Mögliche Gliederungen zu den drei Interpretationsaufgaben:
    3. lyrische Form
       - Gedichtart
 	  - Strophenform
+	    - Distichon (Hexameter + Pentameter)
+		- Sonett (2 Quartette mit Antithese, 2 Terzette mit Synthese)
+		- Volksliedstrophe (einfach, regelmäßiges Metrum mit Jamben/Trochäen, oft vier Verse)
+		- freie Rhythmen
 	  - lautliche Form:
-	    - Metrum (Jambus, Anapäst, Trochäus, Daktylus) → Blankvers, Distichon
+	    - Metrum (Jambus, Anapäst, Trochäus, Daktylus)  
+		  → Blankvers (ungereimter, meist 5-hebiger Jambus), Distichon (Hexameter + Pentameter), Alexandriner (6-hebiger Jambus mit Mittelzäsur)
 		- Kadenzen: weiblich (klingend)/männlich (stumpf)
 		- Reimschemata (Binnenreim, Paarreim, Kreuzreim, umarmender Reim, Waise)
 		- Enjambements/Zeilenstil
@@ -182,3 +185,11 @@ Bestehend aus fünf Akten:
 5. Katastrophe/Lösung
    - Lösung des Konflikts: meist Tod des Helden  
    → Läuterung des **Helden** (auch wenn er stirbt: äußerer Untergang/innerer Sieg)
+   
+|Klassisches Theater|Episches Theater|
+|aristotelisch|Bertolt Brecht|
+|folgt dem Dramenmodell|Szenen und Bilder; Unterbrechung der Handlung|
+|Schauspieler spielen die Figur|Schauspieler „stehen neben” der Figur|
+|Publikum leidet mit|Publikum betrachtet mit Distanz, bewertet|
+|illusionistisch (als wäre es Realität)|desillusionierend (Bewertung der Handlung)|
+|Intention: Eleos, Phobos, Katharsis|Abstand schaffen (durch Verfremdungen); Zuschauer sollen selbst überlegen|

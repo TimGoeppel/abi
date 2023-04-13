@@ -1,5 +1,3 @@
-
-
 # Textgebundenes Erörtern
 
 ## Mögliche Gliederung
