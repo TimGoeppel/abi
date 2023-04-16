@@ -20,44 +20,51 @@
 - Freundschaft: Gleichgestimmtheit der Seelen
 - Gesellschaftkritik (z.B. Schiller: Kabale und Liebe, Kammerdienerszene)
 
-{% include epoche.md name="Weimarer Klassik" begriffe="Humanität, Harmonie, Idee, schöne Seele" zeit="um 1800" ereignisse="Französische Revolution, Napoleon, Wiener Kongress (1814/15)" literatur="Lyrik, Drama, Ballade, stilisierte/idealisierte Verssprache" werke="Schiller: Die Horen, Wilhelm Tell; Goethe: Iphigenie auf Tauris, Der Zauberlehrling; Hölderlin: Hyperion; Kleist: Die Marquise von O..." %}
-- Weimar als Zentrum
-- Humanität, durch den Verstand kultiviertes Gefühl  
-  → Harmonie zwischen Natur/Sinnen und Geist/Verstand  
-  → gegen Kriegssituation
-- Schönes mit dem Menschlichen verbinden
-- freie, selbstbestimmte Persönlichkeit (die sich aus Überzeugung unterwirft, s. Paulus)
-- Erziehbarkeit des Menschen
-  - Schiller: „Über die ästhetische Erziehung des Menschen”  
-    → Erziehung zur Humanität
-  - schöne Seele: ausgeglichener Mensch, der sowohl Pflicht (Gehorsam) als auch Neigung folgt
-  - Kunst erzieht zu Schönem, Wahren und Guten
-- göttliche Natur, Erlebnis dieser
-- Behandlung moralischer Probleme
-- klassisch-kunstvolle Sprache, starke Idealisierung
-- Rückgriff auf Antike
-- Idee, Müstergültiges, allgemeine Gesetze suchen
+{% include epoche.md name="Weimarer Klassik" begriffe="Humanität, Harmonie, Idee, schöne Seele, Erhabenheit" zeit="um 1800" ereignisse="Französische Revolution, Napoleon, Wiener Kongress (1814/15), Frühindustrialisierung" literatur="Lyrik, Drama, Ballade, stilisierte/idealisierte Verssprache" werke="Schiller: Die Horen, Wilhelm Tell; Goethe: Iphigenie auf Tauris, Der Zauberlehrling; Hölderlin: Hyperion; Kleist: Die Marquise von O..." %}
+- Harmonie
+- Humanität
+- Ideale des Guten, Wahren, Schönen
+- Statik, Vollendung, Schönheit → Harmonie zwischen Trieb (Neigung, Natur, Sinne, Freiheit) und Vernunft (Pflicht, Geist, Verstand, Gesetz)
+  - Kunst (der Antike) → hat Gesetzlichkeit des Lebens (Idee), Wahrheit als Gegenstand
+  - strenge Form: z.B. klassisches Drama, klassisch-kunstvolle Sprache, starke Idealisierung
+- sittlicher Idealismus: kategorischer Imperativ Kants → Freiheit + Autonomie
+- Menschenbild:
+  - Ideal: in sich ruhender, guter und schöner Mensch
+  - Mensch zwischen Gott und Natur
+  - erziehbarer Mensch
+  - ästhetische Erziehung (Schiller) durch Kunst zur „schönen Seele” (Neigung und Pflicht stimmen überein) oder zur „Erhabenheit” (andere Neigung wird zugunsten der Pflicht überwunden)  
+    → freie, selbstbestimmte Persönlichkeit, die sich aus Überzeugung unterwirft
+- Themen: Erhabenes/Heroisches/Tragisches, Überwindung von Gegensätzen, große Charaktere, moralische Probleme, Mythologie („hohe Stoffe”)
+- Lyrik: Idee (aus Symbolik), abgeleitetes Gesetz („Höheres”)/Wahres → Allgemeines; historisch, aus Betrachtung, Realitätsentsprechung; gedankliche Entwicklung aus Struktur
+- Weimar als Zentrum (Goethe, Schiller, Wieland, Herder)
 
-{% include epoche.md name="Romantik" begriffe="Sehnsucht" zeit="ab 1800" ereignisse="Französische Revolution, Napoleon, Wiener Kongress (1814/15)" literatur="Epik, Lyrik" werke="Novalis: Heinrich von Ofterdingen; Brentano: Lied von der Lore Lay; Eichendorff: Aus dem Leben eines Taugenichts; Heine: Reisebilder; Hoffmann: Die Elixiere des Teufels, Der Sandmann; Andersen: Das Mädchen mit den Schwefelhölzchen" %}
-- Universalpoesie
-- Weltflucht, Weg nach innen, Grenzüberschreitung  
-  → zum Fantastischen, zur Vergangenheit, in den Traum
-- volkstümliche Formen des Mittelalters: Volkslieder und Märchen  
-  → sowohl positive als auch negative Erzählungen
-- Vorstellung eines Christentums  
-  → „Wiederentdeckung” des Katholizismus
-- Schwarze Romantik: (heidnische) Geister bringen Menschen Unheil herbei
-- Gefühlsstärke (auch negative Gefühle, solange intensiv) statt Rationalismus
-- Sehnsucht nach Unbekanntem, Unendlichen (Gott in der Ferne; vgl. Caspar David Friedrich)
-  - kein konkreter Gegenstand der Sehnsucht existiert → Entfremdung auflösen und zum „Urzustand” zurückkehren
-  - blaue Blume (Novalis) → Symbol der nicht genau beschreibbaren Sehnsucht (Erkenntnis, Liebe, Poesie, Religion)
-- Zauber der Natur
-- Kunst soll Welt verwandeln („poetisieren”)
+{% include epoche.md name="Romantik" begriffe="progressive Universalpoesie, Poetisierung, universaler Sinnzusammenhang, Sehnsucht, Chiffre" zeit="ab 1800" ereignisse="Französische Revolution, Napoleon, Wiener Kongress (1814/15)" literatur="Epik, Lyrik" werke="Novalis: Heinrich von Ofterdingen, Der Spinnerin Nachtlied; Brentano: Lied von der Lore Lay; Eichendorff: Aus dem Leben eines Taugenichts; Heine: Reisebilder; Hoffmann: Die Elixiere des Teufels, Der Sandmann; Andersen: Das Mädchen mit den Schwefelhölzchen" %}
 
-→ später auch: Warnung vor Gefahr der Weltflucht und Romantisierung
+- „progressive Universalpoesie”
+  - Poesie ist nicht vom Menschen, sondern in allem enthalten bzw. entspricht dem Schöpfergeist
+  - daraus folgender „universaler Sinnzusammenhang”/Einheit von allem
+  - Natur ist poetisch, Träger von Chiffren („Geheimzeichen”, die wie Klaviertasten vom Gegenstand abstrahierte Empfindungen im Menschen auslösen bzw. die der Menschen „entschlüsseln” muss)
+  - Gefühl statt Wissenschaft; Gedankliches tritt in den Hintergrund
+  - Kunst soll Welt verwandeln („poetisieren”), „Weltgeheimnis” hervorrufen
+- Lyrik: (lyrisches) Wort nur als Vermittler von Gefühlen, ohne wirklichen Wortinhalt  
+  → Austauschbarkeit, Zyklik, nur „wohlklingend und voll schöner Worte”, kein Sinnzusammenhang, Gefühl statt Klang
+- Themen
+  - Weltflucht, Weg nach innen, Grenzüberschreitung  
+    → zum Fantastischen, zur Vergangenheit, in den Traum, in die Nacht
+  - volkstümliche Formen (des Mittelalters): Volkslieder und Märchen  
+    → sowohl positive als auch negative Erzählungen
+  - Vorstellung eines geeinten Christentums  
+    → „Wiederentdeckung” des Katholizismus
+  - Schwarze Romantik: (heidnische) Geister bringen Menschen Unheil herbei
+  - Gefühlsstärke (auch negative Gefühle, solange intensiv) statt Rationalismus → möglichst intensives Erleben der Welt statt Veränderung durch Vernunft
+  - Sehnsucht nach Unbekanntem, Unendlichen (Gott in der Ferne; vgl. Caspar David Friedrich)
+    - kein konkreter Gegenstand der Sehnsucht existiert → Entfremdung auflösen und zum „Urzustand” zurückkehren
+    - blaue Blume (Novalis) → Symbol der nicht genau beschreibbaren Sehnsucht (Erkenntnis, Liebe, Poesie, Religion)
+  - Zauber der Natur
+  - später auch: Warnung vor Gefahr der Weltflucht und Romantisierung (Eichendorff)
 
 {% capture realismus_werke %}Vormärz|Heine: Die schlesischen Weber; Büchner: Der hessische Landbote, Dantons Tod, Woyzeck|
-||Biedermeier|Droste-Hülshoff: Der Knabe im Moor; Mörike: Mozart auf der Reise nach Prag; Stifter: Bunte Steine|
+||Biedermeier|Droste-Hülshoff: Der Knabe im Moor; Mörike: Mozart auf der Reise nach Prag; Stifter: Bunte Steine; Grillparzer: Sappho|
 ||Poetischer Realismus|Storm: Der Schimmelreiter; Fontane: Effi Briest
 {% endcapture %}{% include epoche.md name="Realismus" begriffe="mimesis, Typisches" zeit="Anfang bis Mitte 19. Jh." ereignisse="Hambacher Fest (1832), Französische Republik (1848), gescheiterte Revolution von 1848" literatur="Novelle" werke=realismus_werke %}
 - Antwort auf Scheitern der Revolution von 1848
@@ -72,10 +79,16 @@
   - meist junge, politisch engagierte Schriftsteller
   - Kritik an politischen Verhältnissen, v.a. an Preußen
 - **Biedermeier**
-  - weiterhin Tradition der Klassik/Romantik
-  - Rückzug in überschaubare Welt des bürgerlichen Individuums
+  - Anknüpfung an Klassik/Romantik; traditionelle Werte
+  - Rückzug in überschaubare Welt des bürgerlichen Individuums (Häuslichkeit); keine Gemütsäußerung
+    - Einklang zwischen Gemüt, sozialem Umfeld, Natur, Schöpfung
   - Versöhnung
-  - sanftes Gesetz (Stifter): Gesetze der Natur sollen auch zwischen den Menschen herrschen
+  - sanftes Gesetz (Stifter)
+    - Gesetze der Natur sollen auch zwischen den Menschen herrschen
+	- wirkt schon in allen Menschen und menschlichen Beziehungen: Gerechtigkeit, Sitte, Nächstenliebe, Achtung, Ehrung etc.
+	- einziges Allgemeines, Erhaltendes, nie Endendes  
+	  → gegen „einfach begründbare” Wutausbrüche/spektakuläre Naturereignisse  
+	  → für Achten auf das Kleine, Details
 - **Poetischer Realismus**
   - Bismarckzeit
   - bürgerliche Welt als Thema
@@ -89,24 +102,50 @@
 - Ästhetizismus: Kunst soll nicht an sozialem Wert, sondern Gestaltung gemessen werden
 - Surrealismus: Traum und Fantasie anstelle von Welt
 
-{% include epoche.md name="Expressionismus" begriffe="Menschheitsdämmerung" zeit="ab 1890" ereignisse="Naturwissenschaft, Psychoanalyse" literatur="Parabel" werke="Hoddis: Weltende; Kafka: Vor dem Gesetz, Die Verwandlung; Thomas Mann: Buddenbrooks; Musil: Die Verwirrung des Zöglings Törleß; Benn: Nachtcafé; Trakl: Grodek" %}
-- statt Schönem Faszination des Hässlichen
-- Kunst sollte seelische Frustration gegen die Welt ausdrücken → gegen Wissenschaft, Wirtschaft, Kaiserreich
+{% include epoche.md name="Expressionismus" begriffe="Menschheitsdämmerung" zeit="1910-1925" ereignisse="Naturwissenschaft, Technik, Psychoanalyse, Kulturpessimismus, wilhelminische Gesellschaft, Erster Weltkrieg, Weimarer Verfassung" literatur="Parabel, Simultangedicht, kleinere epische Formen" werke="Hoddis: Weltende; Pinthus: Menschheitsdämmerung; Kafka: Vor dem Gesetz, Die Verwandlung; Thomas Mann: Buddenbrooks; Heinrich Mann: Professor Unrat; Musil: Die Verwirrung des Zöglings Törleß; Benn: Nachtcafé; Trakl: Grodek; Werfel: Der gute Mensch; Toller: Masse Mensch" %}
 - Spannungen in Gesellschaft, Kunst, dem Ich
-- „Visionäre”
-- keine Trennung von Außen- und Innenwelt → keine geordnete Sprache, neue Formen
-- Simultangedicht: mehrere gleichzeitige (voneinander unabhängige) Ereignisse → Chaos der Welt
-- Naturbeobachtung / emotionale Befindlichkeit / philosophische Frage
-- teilweise: Kriegsbegeisterung → Neuanfang
-- Parabeln Kafkas: Verrätselung
+  - Freud: Psychoanalyse (Über-Ich, Ich, Es), Traumdeutung (Wunscherfüllung → Unbewusstes kommt zum Vorschein)
+  - Nietzsche: Kulturpessimismus (Kultur als Last)
+  - Darwins Evolutionstheorie
+- programmatisch: Jakob von Hoddis: Weltende
+  - strukturierende Gegensätze (Mensch - Technik, Wichtiges - Banales) → Ende der Welt in allen Aspekten
+  - Prinzip der unpassenden Kollokation (Eisenbahnunfall - Schnupfen, Meere - Hupfen) → Ironie
+  - scheint harmlos, aber: Schilderung einer Apokalypse
+- Menschheitsdämmerung (Kurt Pinthus)
+  - Abenddämmerung (Mensch hat sich überlebt und wird verschwinden)
+    - Kunst sollte seelische Frustration gegen die Welt ausdrücken → gegen Wissenschaft, Wirtschaft, Kaiserreich
+	- Gegenwart als Enttäuschung: konservative Politik und kulturelle Werte, Entwicklungen in Technik und Wissenschaft
+    - Desorientierung, Sinnlosigkeit, Ungewissheit
+  - Morgendämmerung (neuer Mensch bricht auf in eine bessere Zukunft)
+    - Mensch als „göttlich neuer Mensch”/Vordringen zum „wahren Menschen”
+	- teilweise: Kriegsbegeisterung → Neuanfang, bessere Zukunft
+	- weg von Traditionen/tradierten Formen, Logik, Erklärbarkeit
+    - euphorische Erwartung und Begrüßung des Neuen/des Wandels, „Erlösung”, Utopieglaube, „Visionäre”
+- Texte
+  - Parabeln Kafkas: Verrätselung
+    - Bildebene (Tatsächliches) u. Sachebene (Deutungsebene) → Verlust eines klaren Sinnangebots → enigmatische Funktion
+  - Simultangedicht: mehrere gleichzeitige (voneinander unabhängige) Ereignisse → Chaos der Welt (vgl. Stationendrama)
+- Themen: Stadt, Krieg, Neuanfang, Naturbeobachtung/emotionale Befindlichkeit/philosophische Frage, Ich-Zerfall, Orientierungslosigkeit, Generationenkonflikt, Hässliches, Faszination + Angst
+- statt Schönem Faszination des Hässlichen (→ Verlust der Ästhetik), oft groteske Züge
+- Sprache
+  - keine Trennung von Außen- und Innenwelt → keine geordnete Sprache, neue Formen
+  - Missbrauch der Sprache: unpassende Begriffe, teils Auflösung (der Grammatik), Neologismen → Absagen von alter Welt
+  - impulsive, eigene Ausdrucksmittel: intensive, „dramatische” Wortfelder, ekstatische Reihungen, Farbmetaphorik
 
-{% include epoche.md name="Neue Sachlichkeit" zeit="ab 1918" ereignisse="Erster Weltkrieg, Weimarer Republik" literatur="Kabarett, Episches Theater" werke="Brecht: Der gute Mensch von Sezuan, Dreigroschenoper, Mutter Courage und ihre Kinder; Döblin: Berlin Alexanderplatz; Tucholsky: Ideal und Wirklichkeit; Seghers: Das siebte Kreuz; Erika Mann: Ich bin der Prinz von Lügenland" %}
+{% include epoche.md name="Neue Sachlichkeit" zeit="ab 1918" ereignisse="Erster Weltkrieg, Weimarer Republik" literatur="Kabarett, Episches Theater, Gebrauchslyrik, Reportagen, Sachberichte" werke="Brecht: Der gute Mensch von Sezuan, Dreigroschenoper, Mutter Courage und ihre Kinder; Döblin: Berlin Alexanderplatz; Tucholsky: Ideal und Wirklichkeit; Seghers: Das siebte Kreuz; Erika Mann: Ich bin der Prinz von Lügenland; Zuckmayer: Der Hauptmann von Köpenick" %}
 - während Weimarer Republik nach dem verlorenen Ersten Weltkrieg
   - liberal
   - während Zeit des Nationalsozialismus: Verfolgung → Flucht und Exil
   - fühlten sich zu einem anderen Deutschland zugehörig → kämpften mit ihren Werken gegen Nationalsozialisten
-- realistische, nüchterne Literatur
+- realistische, nüchterne Literatur → objektive, detaillierte Darstellung der sozialen Wirklichkeit
+- Organisation von Schriftstellern (gegen Verläge)
+- offen für neue Formen: Gebrauchslyrik
 - Episches Theater
+- Exilliteratur: Isolation, Antifaschismus, Exil- & Tarnzeitschriften, Briefe; bspw. Das siebte Kreuz (Anna Seghers) 
+
+{% include epoche.md name="Avantgarde/Dadaismus" begriffe="Merz" zeit="1915-1925" ereignisse="Erster Weltkrieg, Weimarer Republik" literatur="" werke="Schwitters: Anna Blume" %}
+- neue Geistesrichtung: Ablehnung von Tradition, Radikalisierung, Destruktion
+- Logikbrüche: Dekonstruktion, Collage, Simultanität, Zufallsprinzip
 
 ## Literatur ab 1945
 - Kriegsende, Besatzungszonen
@@ -117,8 +156,11 @@
 - Wiedervereinigung
 - Gruppe 47
 
-{% include epoche.md low="true" name="Nachkriegsliteratur" begriffe="Stunde Null" zeit="1945 bis Ende 1960er" ereignisse="Wiederaufbau, Teilung Deutschlands" literatur="Kurzgeschichte, Kriminalgeschichte, Hörspiele" werke="Borchert: Draußen vor der Tür; Celan: Die Todesfuge; Böll: Wanderer kommst du nach Spa...; Grass: Die Blechtrommel; Dürrenmatt: Der Richter und sein Henker, Die Physiker; Frisch: Homo faber" %}
-- „Trümmerliteratur”
+{% include epoche.md low="true" name="Nachkriegsliteratur" begriffe="Stunde Null" zeit="1945 bis Ende 1960er" ereignisse="Wiederaufbau, Teilung Deutschlands" literatur="Kurzgeschichte, Kriminalgeschichte, Hörspiele" werke="Borchert: Draußen vor der Tür, Nachts schlafen die Ratten doch; Celan: Die Todesfuge; Böll: Wanderer kommst du nach Spa...; Grass: Die Blechtrommel; Dürrenmatt: Der Richter und sein Henker, Die Physiker; Frisch: Homo faber; Beckett: Warten auf Godot" %}
+- „Trümmerliteratur”, Kahlschlagliteratur
+- zerstörte Städte, zerstörte Utopien → Stunde Null → literarischer Neuanfang
+- zwischen Verarbeitung und Verdrängung
+  - Suche nach Menschlichkeit in Ruinen
 - Exilautoren zurückgekehrt → aber wenig Erfolg
 - Reeducation
 - sprachlich nüchtern (vgl. Neue Sachlichkeit) → gegen Propaganda
@@ -126,21 +168,32 @@
 - konkrete Poesie
   - Sprache als „Bausteine” → visuelle Buchstabenkonstellationen
 - absurdes Theater: Lebensangst → Sinnlosigkeit der Existenz
+- Dokumentarismus: Montage authentischer Dokumente
 - sozialistischer Realismus in DDR
-  - Wirklichkeit realistisch darstellen, Zukunftsweisendes hervorheben → Erziehung der Menschen zum Sozialismus
+  - Wirklichkeit realistisch darstellen, Zukunftsweisendes hervorheben → staatlich gelenkte Erziehung der Menschen zum Sozialismus (Aufbauliteratur)
   - Bitterfelder Weg: Trennung von Kunst und Leben aufheben → Schriftsteller sollten in Fabriken gehen und Arbeiter zum Schreiben motivieren
+    - positiver Held als Vorbild sozialistischer Idealgesellschaft
 
 {% include epoche.md low="true" name="Literatur der 1970er und 1980er" ereignisse="Kalter Krieg" werke="Biermann: Ermutigung; Enzensberger: Die Furie des Verschwindens" %}
 - Aufrüstung; Ost-West-Konflikt
 - Protest gegen jeweiliges System (68er-Bewegung, RAF; Montagsdemonstrationen)
   - Ausbürgerung Wolf Biermanns (schrieb „politische Lieder”) aus der DDR 1976
   - Liberalisierung
+  - Kritik am Sozialismus mit dem Verhältnis von Individuum und Gesellschaft im Mittelpunkt
 - auch Fokus auf Individuum, Privates
 
-{% include epoche.md low="true" name="Postmoderne" zeit="ab 1989" ereignisse="Wiedervereinigung" literatur="Romane, Biografien, Mischformen" werke="Süskind: Das Parfum; Strauss: Der Park; Kehlmann: Die Vermessung der Welt" %}
+{% include epoche.md low="true" name="Postmoderne" zeit="ab 1989" ereignisse="Wiedervereinigung" literatur="Romane, Biografien, Mischformen" werke="Süskind: Das Parfum; Strauss: Der Park; Kehlmann: Die Vermessung der Welt; Schneider: Schlafes Bruder; Grass: Ein weites Feld" %}
 - Wiedervereinigung
-- weiterhin auch Beschäftigung mit der Vergangenheit
-- Intertextualität → Spiel mit literarischen Mustern der Tradition
-- Unterscheidungen aufgehoben → Mischung von Stilen, Formen, Realität und Fiktion usw.
-- Popliteratur
-  - „E” und „U” nicht mehr getrennt
+- verschiedene Stilrichtungen: „Stilpluralismus” (Überwindung von Funktionalismus, Rationalismus)
+  - weiterhin auch Beschäftigung mit der Vergangenheit: Bewusstsein des Scheiterns alter Ideologien
+- Merkmale:
+  - Suche nach eigener Identität
+  - Erinnerung der 3. Generation
+  - Intertextualität: Spiel mit literarischen Mustern (Genres?) der Tradition
+  - Auflösung des Kanons: respektloser, parodistischer, negierender Umgang mit Vorbildern und Mustern
+  - Unterscheidungen aufgehoben → Mischung von Stilen, Formen, Realität und Fiktion usw.
+  - Irrealismen
+  - Mehrfachcodierung (unterschiedlich lesbar; s. Das Parfum)
+  - Popliteratur
+    - „E” und „U” nicht mehr getrennt → Ironie und Vergnügen, Triviales, Allgemeinverständliches
+  
