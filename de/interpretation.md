@@ -6,16 +6,17 @@ Mögliche Gliederungen zu den drei Interpretationsaufgaben:
    - Gattungen: Ballade, Sonett, Lied, konkrete Poesie
 2. Hauptteil
    1. [Inhalt](#inhalt)
-	  - lyrisches Ich → Erlebnis, Stimmung, Gedanke, Appell?
    2. [Aufbau](#aufbau)
    3. lyrische Form
+      - lyrisches Ich/Du, Sprecher im Gedicht (Erlebnis, Stimmung, Gedanke, Appell)
+        - Standort, Haltung, Rolle/Typ (Rollengedicht)
       - Gedichtart
 	  - Strophenform
 	    - Distichon (Hexameter + Pentameter)
 		- Sonett (2 Quartette mit Antithese, 2 Terzette mit Synthese)
 		- Volksliedstrophe (einfach, regelmäßiges Metrum mit Jamben/Trochäen, oft vier Verse)
 		- freie Rhythmen
-	  - lautliche Form:
+	  - lautliche Form
 	    - Metrum (Jambus, Anapäst, Trochäus, Daktylus)  
 		  → Blankvers (ungereimter, meist 5-hebiger Jambus), Distichon (Hexameter + Pentameter), Alexandriner (6-hebiger Jambus mit Mittelzäsur)
 		- Kadenzen: weiblich (klingend)/männlich (stumpf)
@@ -196,7 +197,7 @@ Bestehend aus fünf Akten:
 
 Anmerkungen:
 - mimesis: Nachahmung
-- phobos: Schauedrn
+- phobos: Schaudern
 - eleos: Jammern
 - katharsis: Reinigung
 - V-Effekt: Verfremdungseffekt; fremde Perspektive → Identifizierung verhindern
