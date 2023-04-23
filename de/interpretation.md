@@ -188,11 +188,11 @@ Bestehend aus fünf Akten:
 
 |             |klassische Tragödie (Trauerspiel)|klassische Komödie (Lustspiel)   |episches Theater Brechts                                  |
 |Handlung/Form|abgeschlossen; Dramenmodell      |komische (lustige) Handlung      |große gesells. Themen, unterbrochene Handlung; offene Form|
-|Nachahmung?  |mimesis (illusionistisch/nachahmend)                               |desillusionierend: V-Effekt                               |
+|Nachahmung?  |mimesis (illusionistisch/nachahmend)|                              |desillusionierend: V-Effekt                               |
 |Figuren      |Ständeklausel → Helden           |niedriger Stand → Herabschauen   |alltägliche; Schauspieler stehen aber „neben” der Figur   |
 |Ziel         |eleos, phobos → katharsis        |sich selbst darin erkennen       |Zuschauer sollen selbst überlegen → Distanz geschaffen    |
 |Ende         |Lösung: Held (stirbt) geläutert  |geht für den „Antihelden” gut aus|Zuschauer wird zum eigenen Handeln angeregt               |
-|Publikum     |leidet mit                                                         |betrachtet, wertet → mit Distanz (als Beobachter)         |
+|Publikum     |leidet mit                       |                                 |betrachtet, wertet → mit Distanz (als Beobachter)         |
 
 Anmerkungen:
 - mimesis: Nachahmung
