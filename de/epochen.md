@@ -18,7 +18,7 @@
 - Freiheit → Rebellion, politische Forderung
 - Identität: aus Nation statt Ständen
 - Freundschaft: Gleichgestimmtheit der Seelen
-- Gesellschaftkritik (z.B. Schiller: Kabale und Liebe, Kammerdienerszene)
+- Gesellschaftskritik (z.B. Schiller: Kabale und Liebe, Kammerdienerszene)
 
 {% include epoche.md name="Weimarer Klassik" begriffe="Humanität, Harmonie, Idee, schöne Seele, Erhabenheit" zeit="um 1800" ereignisse="Französische Revolution, Napoleon, Wiener Kongress (1814/15), Frühindustrialisierung" literatur="Lyrik, Drama, Ballade, stilisierte/idealisierte Verssprache" werke="Schiller: Die Horen, Wilhelm Tell; Goethe: Iphigenie auf Tauris, Der Zauberlehrling; Hölderlin: Hyperion; Kleist: Die Marquise von O..." %}
 - Harmonie
@@ -195,5 +195,5 @@
   - Irrealismen
   - Mehrfachcodierung (unterschiedlich lesbar; s. Das Parfum)
   - Popliteratur
-    - „E” und „U” nicht mehr getrennt → Ironie und Vergnügen, Triviales, Allgemeinverständliches
+    - „E” (ernsthafte Literatur) und „U” (Unterhaltungsliteratur) nicht mehr getrennt → Ironie und Vergnügen, Triviales, Allgemeinverständliches
   
