@@ -15,7 +15,7 @@ Besondere Vektoren:
 - Ortsvektor: $$\overrightarrow{0A}=\vec{A}$$ (vom Ursprung zum eigentlichen Punkt)
 - Verbindungsvektor: $$\overrightarrow{AB}=\vec{B}-\vec{A}$$ („Spitze minus Fuß”)
 - Vektorkette: $$\overrightarrow{AB}+\overrightarrow{BC}+\overrightarrow{CD}=\overrightarrow{AD}$$
-- Einheitsvektor (Länge 1): $$\vec{a^0}=\frac{1}{\mid\vec{a}\mid}\cdot \vec{a} \Rightarrow\mid\vec{a^0}\mid=1$$
+- Einheitsvektor (Länge 1): $$\vec{a^0}=\frac{1}{\mid\vec{a}\mid}\cdot \vec{a} \Rightarrow\mid\vec{a_0}\mid=1$$
 
 - Länge eines Vektors: $$\mid\vec{a}\mid=\mid\begin{pmatrix} a_1 \\ a_2 \\ a_3 \end{pmatrix}\mid=\sqrt{a_1\,^2+a_2\,^2+a_3\,^2}$$ (Pythagoras im dreidimensionalen Raum)  
 - Kommutativ- und Assoziativgesetz gelten  
@@ -65,7 +65,7 @@ g:\begin{pmatrix} x_1 \\ x_2 \\ x_3 \end{pmatrix}=\begin{pmatrix} a_1 \\ a_2 \\ 
 (III)\ x_3=a_3+\lambda\cdot u_3\\
 $$
 
-- Spurpunkte: Schnittpunkte mit den Koordinatenebenen (eine Gleichung gleich $$0$$ setzen und $$\lambda$$, dann den Punkt bestimmen)
+- Spurpunkte: Schnittpunkte mit den Koordinatenebenen (eine Gleichung gleich $$0$$ setzen und erst $$\lambda$$, dann den Punkt bestimmen)
 
 ## Ebenen
 - Ebenengleichung in Parameterform:  
@@ -129,7 +129,7 @@ Achtung! Zwischen Ebene und Gerade beträgt der Schnittwinkel $$90^\circ-\varphi
 ### Abstand Punkt-Gerade
 - kürzeste Strecke zwischen Punkt $$\vec{P}$$ und Gerade $$g$$ ist das Lot auf der Gerade zum Punkt  
   → Strecke muss senkrecht auf Richtungsvektor stehen  
-  → $$\overrightarrow{PX}\circ\vec{u}$$  
+  → $$\overrightarrow{PX}\circ\vec{u}=0$$  
   → ausmultiplizieren → Gerade zeilenweise einsetzen → nach $$\lambda$$ auflösen → in Geradengleichung eingesetzt Punkt $$\vec{X}$$ herausfinden  
   → $$d(P;g)=\mid\overrightarrow{PX}\mid$$
 
