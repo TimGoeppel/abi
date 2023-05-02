@@ -9,10 +9,10 @@ Der Differenzenquotient $$\frac{\Delta y}{\Delta x}=\frac{f(b)-f(a)}{b-a}$$ ist 
 
 ### Lokale Änderungsrate
 Lokale Änderungsrate von $$f$$ an der Stelle $$a$$:
-„Differentialquotient” $$\lim\limits_{x \to 0} \frac{f(a+h)-f(a)}{h}$$  
+„Differentialquotient” $$\lim\limits_{h \to 0} \frac{f(a+h)-f(a)}{h}$$  
 &#x2259; Steigung der Tangente von $$f$$ bei $$x=a$$ bzw. $$f'(a)$$
 
-→ existiert der Grenzwert (für positive und negative h), ist $$f$$ an der Stelle $$a$$ **differenzierbar** („knickfrei”)
+→ existiert der Grenzwert (für positives und negatives h), ist $$f$$ an der Stelle $$a$$ **differenzierbar** („knickfrei”)
 
 ### Ableitungsfunktion
 Die Ableitungsfunktion $$f'(x)$$ ordnet jedem x-Wert von $$f(x)$$ die dortige Steigung von f zu.
@@ -88,7 +88,7 @@ $$\int\limits_a^b{f(x)dx}=[F(x)]_a^b=F(b)-F(a)$$
 Für den Winkel zwischen der x-Achse und der Tangente von $$f$$ an der Stelle $$a$$ gilt:
 
 $$tan(\alpha) = m$$  
-→ $$\alpha=\arctan(m)=arctan(f'(a))$$
+→ $$\alpha=\arctan(m)=\arctan(f'(a))$$
 
 ## Monotonie
 - $$G_f$$ ist s.m.s. (streng monoton **steigend**) in einem Intervall, wenn $$f'(x)$$ dort **positiv** ist.
@@ -135,14 +135,14 @@ Polstelle liegt dort, wo eine Definitionslücke ($$„Nenner” = 0$$) ist
 
 $$\lim\limits_{x \to x_0}{f(x)}=\pm \infty$$
 
-Achtung: Bei einer **(be)hebbaren Definitionslücke** (die rausgekürzt werden kann, sodass nur ein „Loch” im Graphen übrig bleibt)
+Achtung: Bei einer **(be)hebbaren Definitionslücke** (die herausgekürzt werden kann, sodass nur ein „Loch” im Graphen übrig bleibt)
 gibt es keine Polstelle!
 
 ## Umkehrbarkeit
-„Spiegelung einer Funktion an der Winkelhalbierenden des I. und II. Quadranten”  
+„Spiegelung einer Funktion an der Winkelhalbierenden des I. und III. Quadranten”  
 → bei $$x^2$$ ist die Umkehrfunktion $$\sqrt{x}$$ (negativer Ast wird ausgelassen!)
 
-Eine Funktion ist in einem Intervall eindeutig **umkehrbar**, wenn sie in diesem **streng monoton** ist.  
+Eine Funktion ist in einem Intervall eindeutig **umkehrbar**, wenn sie in diesem **streng monoton** steigt bzw. fällt.  
 → Berechnung durch Vertauschen von $$x$$ und $$y$$, dann Umformung.
 
 |Funktion|Umkehrfunktion|
@@ -180,15 +180,15 @@ Die zweite Ableitung einer Funktion beschreibt deren Krümmung (= Abweichung von
 → auf ungerade Nullstelle überprüfen (Vorzeichentabelle → $$f'''(x) \neq 0$$)
 
 ## Flächenberechnung
-- mit Annäherung (z.B. geometrische Figuren)
+- mit Annäherung (z.B. geometrische Formen)
 - zwischen zwei Funktionen $$f(x)$$ und $$g(x)$$:
   - Schnittpunkte finden: $$f(x)=g(x)$$ (z.B. $$x_1=a; x_2=b; x_3=c$$)
   - abschnittweise integrieren und Beträge addieren: $$A=\mid\int\limits_a^b{f(x)-g(x)dx}\mid+\mid\int\limits_b^c{f(x)-g(x)dx}\mid$$
   
 ## Integration im Unendlichen
 Geometrische Reihe: $$1; \frac{1}{2}; \frac{1}{4}; \frac{1}{8};$$ usw.  
-→ endlicher Grenzwert: $$\lim\limits_{n \to \infty}\sum\limits_{k=0}^n{\frac{1}{2k}}=2$$
+→ endlicher Grenzwert: $$\lim\limits_{n \to \infty}\sum\limits_{k=0}^n{\frac{1}{2^k}}=2$$
 
 Integral im Unendlichen kann auch endlich sein:  
-$$\lim\limits_{n \to \infty}\int\limits_1^n{\frac{1}{x^2}dx}=\int\limits_1^\infty{\frac{1}{x^2}}dx=[-x^{-1}]_1^\infty=\lim\limits_{x \to \infty}{-\frac{1}{x}-(-\frac{1}{1^1})=0+1=1}$$  
+$$\lim\limits_{n \to \infty}\int\limits_1^n{\frac{1}{x^2}dx}=\int\limits_1^\infty{\frac{1}{x^2}}dx=[-x^{-1}]_1^\infty=\lim\limits_{x \to \infty}{(-\frac{1}{x}-(-\frac{1}{1^1})}=0+1=1$$  
 → zweite Notation ohne Limes geläufig
