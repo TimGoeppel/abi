@@ -190,5 +190,5 @@ Geometrische Reihe: $$1; \frac{1}{2}; \frac{1}{4}; \frac{1}{8};$$ usw.
 → endlicher Grenzwert: $$\lim\limits_{n \to \infty}\sum\limits_{k=0}^n{\frac{1}{2^k}}=2$$
 
 Integral im Unendlichen kann auch endlich sein:  
-$$\lim\limits_{n \to \infty}\int\limits_1^n{\frac{1}{x^2}dx}=\int\limits_1^\infty{\frac{1}{x^2}}dx=[-x^{-1}]_1^\infty=\lim\limits_{x \to \infty}(-\frac{1}{x}-(-\frac{1}{1^1})=0+1=1$$  
+$$\lim\limits_{n \to \infty}\int\limits_1^n{\frac{1}{x^2}dx}=\int\limits_1^\infty{\frac{1}{x^2}}dx=[-x^{-1}]_1^\infty=\lim\limits_{x \to \infty}{(-\frac{1}{x}-(-\frac{1}{1^1}))=0+1=1}$$  
 → zweite Notation ohne Limes geläufig
