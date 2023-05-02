@@ -50,7 +50,7 @@ Darstellungsmöglichkeiten:
   → auch kumulativ (Aufaddierung der Wahrscheinlichkeiten von 0 bis zum Maximalwert 1 am Ende)
 
 - **Erwartungswert** (gewichteter Mittelwert) einer Zufallsgröße: $$E(X)=\mu=\sum\limits_{i=0}^n{x_i\cdot P(X=x_i)}$$  
-  → ein Spiel ist bei $$\mu=0$$ als „fair”
+  → ein Spiel wird bei $$\mu=0$$ als „fair” bezeichnet
 - **Varianz** (mittlere quadratische Abweichung vom Erwartungswert) einer Zufallsgröße: $$Var(X)=\sum\limits_{i=0}^n{P(X=x_i)\cdot (x_i-\mu)^2}$$  
   → Maß für die Streuung  
   → Einheit $$(Einheit)^2$$
